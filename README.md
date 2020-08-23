@@ -1,5 +1,7 @@
 # ProductivityFy
 
+ProductivityFy is a ReactJS based browser extension that allows you to commit to focusing for certain time periods by promising to pay a certain amount to a charity of their choice if the desired goal is not met. 
+
 Evoke with:
 
 cd extension
